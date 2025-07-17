@@ -1,16 +1,6 @@
-
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Student, 2024.
-
-- First-Prize Scholarship (CUMT), 2024.
-
-- First-Prize Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+-   Best Paper Proceedings (top 10%), Academy of Management 85th Annual Meeting, 2025
+-   RSA Research Network Grant (with POLISS ESRs, £10,000), 2024
+-   Research Fellowship, Bocconi University, 2023-2024
+-   Marie Curie European Training Networks Early Stage Researcher Fellowship, 2020-2023
+-   SPDB Scholarship, Pudong Development Bank, 2014-2015
+-   Nankai University Scholarship, Nankai University, 2012-2014

@@ -1,17 +1,15 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
+My research lies at the intersection of innovation, entrepreneurship, and human capital theory, with a particular emphasis on understanding the causes and consequences of knowledge transferability, combination, and diffusion both across and within organizational boundaries. I employ rigorous empirical strategies grounded in large-scale, novel datasets, complemented by a range of identification techniques and machine learning methods to generate robust and policy-relevant insights.
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yifan.tian\@phd.unibocconi.it
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+PhD in Business Administration and Management, Bocconi University, 2020-2025\
+MSc in Business Economics, University of Amsterdam, 2015-2016\
+Bachelor in Economics, Nankai University, 2011-2015\
+Bachelor in History, Nankai University, 2011-2015
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+Innovation, Strategic Human Capital, Entrepreneurship, Economic Geography, Knowledge
