@@ -1,4 +1,5 @@
-My research lies at the intersection of innovation, entrepreneurship, and human capital theory, with a particular emphasis on understanding the causes and consequences of knowledge transferability, combination, and diffusion both across and within organizational boundaries. I employ rigorous empirical strategies grounded in large-scale, novel datasets, complemented by a range of identification techniques and machine learning methods to generate robust and policy-relevant insights.
+My research lies at the intersection of innovation, entrepreneurship, and human capital theory, with a particular emphasis on understanding the causes and consequences of knowledge transferability, combination, and diffusion both across and within organizational boundaries. I employ rigorous empirical strategies grounded in large-scale, novel datasets, complemented by a range of identification techniques and machine learning methods to generate robust and theoretical insights.
+
 #### Contact
 
 Email: yifan.tian\@phd.unibocconi.it
