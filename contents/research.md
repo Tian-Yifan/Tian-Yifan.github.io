@@ -1,6 +1,6 @@
 #### Job Market Paper
 
-- Job Displacements and Working Productivity: Evidence from Mass Layoffs in the United States
+- The Shattered Career: How Job Displacement Channels High Performers Away from Productivity
 
 #### Research Projects
 
