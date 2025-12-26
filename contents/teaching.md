@@ -1,6 +1,6 @@
 #### Lecturer
 
-- Behavioral Skills Seminar, Fall 2025 (incoming) 
+- Behavioral Skills Seminar, Fall 2025
 - Introduction to Social Network Analysis with Python, ICRIOS Bocconi, Spring 2024
 - Quantitative Analysis, ICRIOS Bocconi, Fall 2023
 
